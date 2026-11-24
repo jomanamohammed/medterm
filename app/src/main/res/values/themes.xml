@@ -1,0 +1,6 @@
+
+<resources>
+    <style name="Theme.MyApplication22"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
